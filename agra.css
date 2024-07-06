@@ -1,7 +1,7 @@
 body {
     background-image: url("image_files/taj_mahal.JPG");
     background-size: cover;
-    /* b: center; */
+    /* background-position: center; */
     /* padding: 700px; */
     /* margin-top: 2300px; */
 }
